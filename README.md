@@ -1,4 +1,9 @@
-# Code for 3D Wireframe Figure from Seymour et al. 2019
+
+# Code for 3D Wireframe Figure from Seymour _et al._ 2019
+
+  <!-- badges: start -->
+[![DOI](https://zenodo.org/badge/260379463.svg)](https://zenodo.org/badge/latestdoi/260379463)
+  <!-- badges: end -->
 
 This repository hosts the R script, [surface_plot.R](surface_plot.R), used to create Figure 5 as found in Seymour et al. 2019.
 
